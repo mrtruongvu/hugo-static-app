@@ -21,8 +21,8 @@ title = "Truong Vu"
   imageQuality = 96
   headline = "Welcome to my world!"
   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  links = [
+    { email = "mailto:truong.vu.tv@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -44,7 +44,7 @@ title = "Truong Vu"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/truongvu3" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -70,4 +70,4 @@ title = "Truong Vu"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
