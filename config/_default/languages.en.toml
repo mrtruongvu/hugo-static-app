@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Truong Vu"
 
 [params]
   displayName = "EN"
@@ -19,7 +19,7 @@ title = "Blowfish"
   email = "hallo@gmail.com"
   image = "profile.jpg"
   imageQuality = 96
-  headline = "I'm only human"
+  headline = "Welcome to my world!"
   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
