@@ -48,14 +48,24 @@
 #  weight = 20
 
 [[main]]
-  name = "Posts"
+  name = "What I think"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Adventures"
+  name = "Where I hike"
+  pageRef = "hikes"
+  weight = 30
+
+[[main]]
+  name = "What I read"
   pageRef = "posts"
-  weight = 10
+  weight = 20
+
+[[main]]
+  name = "Who I am"
+  pageRef = "posts"
+  weight = 40
 
 #[[main]]
 #  name = "Tags"
