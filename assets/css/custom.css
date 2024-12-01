@@ -1,0 +1,14 @@
+/* @font-face {
+    font-family: font;
+    src: url('/fonts/font.ttf');
+}
+
+html {
+    font-family: font;
+} */
+
+/* Increase the default font size */
+html {
+    font-size: 12pt;
+  }
+  
