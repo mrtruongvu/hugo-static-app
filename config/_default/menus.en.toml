@@ -64,7 +64,7 @@
   weight = 20
 
 [[main]]
-  name = "Who I am"
+  name = "Who is Truong"
   pageRef = "about"
   weight = 40
 
