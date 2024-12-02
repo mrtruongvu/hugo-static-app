@@ -12,12 +12,12 @@
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First adventure</title>
-      <link>//localhost:1313/hikes/first/</link>
+      <link>//localhost:1313/africa/first/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>hallo@gmail.com (Truong)</author>
-      <guid>//localhost:1313/hikes/first/</guid>
+      <guid>//localhost:1313/africa/first/</guid>
       <description>🌍</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/first/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/africa/first/featured.jpg" />
     </item>
     
     <item>

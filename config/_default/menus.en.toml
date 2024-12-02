@@ -43,23 +43,29 @@
 [[main]]
   name = "Europe"
   parent = "Where I hike"
-  pageRef = "hikes"
+  pageRef = "europe"
+  weight = 20
+
+[[main]]
+  name = "Africa"
+  parent = "Where I hike"
+  pageRef = "africa"
   weight = 20
 
 [[main]]
   name = "Asia"
   parent = "Where I hike"
-  pageRef = "hikes"
+  pageRef = "asia"
   weight = 20
 
 [[main]]
   name = "What I read"
-  pageRef = "posts"
+  pageRef = "reads"
   weight = 20
 
 [[main]]
   name = "Who I am"
-  pageRef = "posts"
+  pageRef = "about"
   weight = 40
 
 #[[main]]
