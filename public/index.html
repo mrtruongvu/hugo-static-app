@@ -139,6 +139,24 @@
 
 
 
+<script data-id="umami-script" async src="https://analytics.umami.is/script.js"
+        data-website-id="2ecef5fd-21fe-4ba7-a842-19c3d3668216">
+</script>
+
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+            umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
+
+
   
   
   <meta name="theme-color"/>
@@ -594,6 +612,7 @@
                     </div>
                     <section class="prose dark:prose-invert"><p>👋</p>
 <p>Hello you! I am currently updating content on my new website!</p>
+<p>Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.</p>
 <p>Truong</p>
 </section>
                 </div>
