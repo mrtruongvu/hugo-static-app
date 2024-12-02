@@ -5,6 +5,10 @@ showAuthor: false
 showDate: false
 showWordCount: false
 showReadingTime: false
+heroStyle: background
+layoutBackgroundBlur: true
+showPagination: false
+
 ---
 
 Welcome to my personal website! Here’s a bit about my journey.
