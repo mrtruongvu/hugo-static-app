@@ -15,22 +15,6 @@
 #  pageRef = "posts"
 #  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
@@ -54,8 +38,19 @@
 
 [[main]]
   name = "Where I hike"
-  pageRef = "hikes"
   weight = 30
+
+[[main]]
+  name = "Europe"
+  parent = "Where I hike"
+  pageRef = "hikes"
+  weight = 20
+
+[[main]]
+  name = "Asia"
+  parent = "Where I hike"
+  pageRef = "hikes"
+  weight = 20
 
 [[main]]
   name = "What I read"
@@ -84,6 +79,6 @@
 #   weight = 10
 
 # [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
