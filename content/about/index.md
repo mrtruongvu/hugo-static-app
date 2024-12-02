@@ -1,7 +1,8 @@
 ---
 title: "About Truong"
 description: "Learn more about me and my journey."
-showAuthor: false
+showAuthor: true
+showAuthorBottom: false
 showDate: false
 showWordCount: false
 showReadingTime: false

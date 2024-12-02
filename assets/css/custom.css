@@ -11,5 +11,10 @@ html {
 html {
     font-size: 12pt;
   }
-  
-
+/*   
+  body {
+    background-image: url('/your-image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  } */
