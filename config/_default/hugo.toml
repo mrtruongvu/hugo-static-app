@@ -17,6 +17,8 @@ buildFuture = false
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
+[build]
+  exclude = ["**/.git/**"]
 
 [pagination]
   pagerSize = 100
