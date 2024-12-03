@@ -12,4 +12,4 @@ layoutBackgroundBlur: true
 # showHero: false
 ---
 
-This part of the blog is still under construction! 🏗️
+This part of the website is still under construction! 🏗️
