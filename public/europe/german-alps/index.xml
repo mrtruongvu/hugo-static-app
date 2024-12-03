@@ -17,7 +17,7 @@
       <author>hallo@gmail.com (Truong)</author>
       <guid>//localhost:1313/europe/german-alps/hoellental/</guid>
       <description>Information about Höllental</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/europe/german-alps/hoellental/featured.jpg" />
     </item>
     
   </channel>
