@@ -1,6 +1,6 @@
 ---
 title: "Hikes in Europe"
-description: "Learn more about me and my journey."
+description: "Travelling through Europe? Learn more about the best hikes that you can easily fit into your travel plans."
 layout: "page"
 showAuthor: false
 showDate: false
@@ -12,8 +12,15 @@ layoutBackgroundBlur: true
 # showHero: false
 ---
 
-Welcome to my personal website! Here’s a bit about my journey.
+No matter if you are sipping wine on one of the many islands of the mediterranean or exploring the gothic castles of Central Europe, you are only one bus ride away from an epic hike. Most major destinations in Europe are in close proximity to nature which makes Europe still one of my favourite places to be. Unless you are in the middle of the Dutch coastal planes, there is really no excuse not to escape the noise of the city and explore one of the greatest treasures that Europe has to offer. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vehicula blandit nunc, vitae tempus augue sollicitudin ut. Integer placerat turpis vel sapien fermentum, eu laoreet lacus congue. Nulla facilisi. Curabitur ultricies nisi nec leo cursus, in iaculis eros malesuada. Cras tristique eros in augue dapibus, nec faucibus elit gravida. Sed non mauris vulputate, tristique felis a, scelerisque velit. Nam eget libero eu ante tincidunt lacinia sit amet nec risus.
+---
 
-Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+{{< figure
+    src="image.jpg"
+    alt="Abstract purple artwork"
+    nozoom=true
+    href="germany"
+    >}}
+
+
