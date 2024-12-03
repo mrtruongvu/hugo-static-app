@@ -31,26 +31,6 @@
     </item>
     
     <item>
-      <title>Canary Islands </title>
-      <link>//localhost:1313/europe/canary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hallo@gmail.com (Truong)</author>
-      <guid>//localhost:1313/europe/canary/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Germany </title>
-      <link>//localhost:1313/europe/german-alps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hallo@gmail.com (Truong)</author>
-      <guid>//localhost:1313/europe/german-alps/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Hikes in Africa</title>
       <link>//localhost:1313/africa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

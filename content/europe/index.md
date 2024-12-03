@@ -21,6 +21,7 @@ No matter if you are sipping wine on one of the many islands of the mediterranea
     alt="A photo of the German Alps"
     nozoom=true
     href="german-alps"
+    target="_self"
     >}}
 
 
@@ -29,5 +30,6 @@ No matter if you are sipping wine on one of the many islands of the mediterranea
     alt="A photo of a forest in Tenerife"
     nozoom=true
     href="canary"
+    target="_self"
     >}}
 
