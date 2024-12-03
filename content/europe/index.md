@@ -32,4 +32,3 @@ No matter whether you are sipping wine on one of the many islands of the Mediter
     href="/canary"
     target="_self"
     >}}
-
