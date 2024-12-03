@@ -15,9 +15,8 @@ cardView: false
 ---
 <br> 
 
-Living in Munich was the privilege that I had for a couple of years.
+Living in Munich for a couple of years was a real privilege. Besides the massive Englischer Garten, an extensive public park that stretches across several districts of the city, the capital of Bavaria boasts some of the most beautiful places of Germany, all just a train ride away.  
 
-<br> 
 <br> 
 
 

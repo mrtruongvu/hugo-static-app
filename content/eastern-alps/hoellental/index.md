@@ -14,7 +14,6 @@ showPagination: false
 # showBreadcrumbs: true
 showRelatedContent: false
 heroStyle: background
-showCards: false
 
 ---
 <!-- {{< figure
@@ -24,6 +23,13 @@ showCards: false
     >}} -->
 
 ## Summary of the hike 🗻
+
+<iframe src="https://www.komoot.com/tour/102593031/embed?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL" width="150%" height="500" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
+<div id="map" style="height: 400px;"></div>
+
 
 {{< alert icon="circle-info" cardColor="#3371ab" iconColor="#1d3557" textColor="#f1faee" >}}
 This part of the website is still under construction!
