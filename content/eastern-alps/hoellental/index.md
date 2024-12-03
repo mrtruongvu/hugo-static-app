@@ -1,8 +1,8 @@
 ---
-title: "Höllental"
+title: "Höllental & Hupfleitenjoch - Germany"
 date: 2024-11-30
 draft: false
-summary: "Information about Höllental"
+summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
 #tags: ["space"]
 
 showTableOfContents: false
@@ -14,8 +14,7 @@ showPagination: false
 # showBreadcrumbs: true
 showRelatedContent: false
 heroStyle: background
-featured_image: "/germanalps/featured.jpg" 
-
+showCards: false
 
 ---
 <!-- {{< figure

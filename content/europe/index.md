@@ -20,7 +20,7 @@ No matter whether you are sipping wine on one of the many islands of the Mediter
     src="germanalps.jpg"
     alt="A photo of the German Alps"
     nozoom=true
-    href="/german-alps/"
+    href="/eastern-alps/"
     target="_self"
     >}}
 

@@ -20,4 +20,8 @@ showPagination: false
 
 I have been wanting to create my own website for years and thanks to [Hugo](https://gohugo.io/) and [Blowfish](https://blowfish.page/), this wish has become reality!
 
-...
+<br> 
+{{< alert icon="circle-info" cardColor="#3371ab" iconColor="#1d3557" textColor="#f1faee" >}}
+This part of the website is still under construction!
+{{< /alert >}}
+
