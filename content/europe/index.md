@@ -17,10 +17,17 @@ No matter if you are sipping wine on one of the many islands of the mediterranea
 ---
 
 {{< figure
-    src="image.jpg"
-    alt="Abstract purple artwork"
+    src="germanalps.jpg"
+    alt="A photo of the German Alps"
     nozoom=true
-    href="germany"
+    href="german-alps"
     >}}
 
+
+{{< figure
+    src="canary.jpg"
+    alt="A photo of a forest in Tenerife"
+    nozoom=true
+    href="canary"
+    >}}
 
