@@ -11,22 +11,12 @@
     <copyright>© 2024 Truong</copyright>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world!</title>
-      <link>//localhost:1313/posts/secondpost/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <author>hallo@gmail.com (Truong)</author>
-      <guid>//localhost:1313/posts/secondpost/</guid>
-      <description>Second post</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/secondpost/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>I finally made it!</title>
+      <title>Why I started my very first website.</title>
       <link>//localhost:1313/posts/myfirstpost/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>hallo@gmail.com (Truong)</author>
       <guid>//localhost:1313/posts/myfirstpost/</guid>
-      <description>How I finally got this website running!</description>
+      <description>How I finally got this website running.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/myfirstpost/featured.jpg" />
     </item>
     

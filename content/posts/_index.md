@@ -1,7 +1,8 @@
 ---
 title: "Posts"
-summary: "How I finally got this website running."
-
+description: "Read my articles."
+cardView: false
 ---
 
 Ideas, thoughts and brain dumps 🧠
+
