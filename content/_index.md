@@ -1,5 +1,5 @@
 ---
-description: Turn your next trip into an adventure! Get the best hiking tips and plans that you can fit in every itinerary!
+description: "Turn your next trip into an adventure! Get the best hiking tips and plans that you can fit in every itinerary!"
 ---
 
 👋

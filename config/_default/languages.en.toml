@@ -70,4 +70,7 @@ title = "mrtruongvu"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
+    { strava = "https://www.strava.com/athletes/40068121" },
+#    { komoot = "https://link-to-some-website.com/" },
+
   ]
