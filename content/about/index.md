@@ -11,6 +11,7 @@ layoutBackgroundBlur: true
 showPagination: false
 
 ---
+<br> 
 
 Welcome to my personal website! Here’s a bit about my journey.
 
