@@ -23,7 +23,7 @@ heroStyle: background
     >}} -->
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
- 📍 Garmisch-Partenkirchen   
+ 📍 Garmisch-Partenkirchen, Germany
 
 {{< /alert >}}
 
@@ -36,7 +36,7 @@ Introduction and some basic information about the hike and surroundings ...
 ### What's special about this hike?
 Highlights of the hike, text 
 
-{{< carousel images="gallery/*" aspectRatio="21-9" interval="1500" >}}
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="1500" >}}
 
 
 <br>
@@ -45,7 +45,7 @@ Highlights of the hike, text
 
 
 {{< alert icon=none cardColor="#f8de88" iconColor="#1d2635" textColor="#1d2635" >}}
- 🚩 12 km point-to-point | ⌛ 6 hours | ↗️ 1039 meters | ↘️ 234 meters 
+ 🚩 13.5 km point-to-point | ⌛ 5-6 hours | ↗️ 1000 meters | ↘️ 1030 meters 
 
 {{< /alert >}}
 
