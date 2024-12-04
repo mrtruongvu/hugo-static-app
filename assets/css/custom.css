@@ -115,3 +115,13 @@ td {
 #map img.leaflet-marker-icon {
     pointer-events: none;
   }
+
+    .no-zoom img { 
+    pointer-events: none; 
+  }
+
+  .gr_grid_book_container img { 
+    pointer-events: none; /* Disable all pointer events, including zoom */
+    /* OR */
+    touch-action: none;  /* Disable touch zoom specifically */
+  }

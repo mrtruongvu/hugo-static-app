@@ -15,8 +15,8 @@ title = "mrtruongvu"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Truong"
-  email = "hallo@gmail.com"
+  name = "Truong Vu"
+  email = "truong.vu.tv@gmail.com"
   image = "profile.jpg"
   imageQuality = 96
 #  headline = "Welcome to my world!"
