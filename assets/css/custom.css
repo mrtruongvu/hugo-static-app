@@ -1,11 +1,27 @@
-@font-face {
-    font-family: font;
-    src: url('/fonts/font-merriweather.ttf');
-}
 
-html {
-    font-family: font;
-}
+  
+  @font-face {
+    font-family: 'MyHeaderFont';
+    src: url('/fonts/font-lato.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'BodyFont';
+    src: url('/fonts/font-merriweather.ttf');
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'MyHeaderFont', sans-serif;
+  }
+  
+  body {
+    font-family: 'BodyFont';
+  }
+
+
+
 
 body {
     text-align: left;
