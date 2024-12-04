@@ -15,8 +15,14 @@ showTableOfContents: false
 
 A bit about me ...
 
+### Books I read ...
+
+{{< goodreads-shelf >}}
+
 
 <br> 
+
+### Things I do ...
 
 
 {{< gallery >}}
@@ -35,7 +41,8 @@ A bit about me ...
 
 
 
-## Experience
+
+### Experience
 
 <table style="width: 100%;">
     <thead>
@@ -86,9 +93,10 @@ A bit about me ...
     </tbody>
 </table>
 
+<br> 
 
 
-## Education
+### Education
 
 
 <table style="width: 100%;">
@@ -130,6 +138,12 @@ A bit about me ...
 
 ---
 
+
+
+
+
+
 This website would never exist without [Hugo](https://gohugo.io/)
 , "the world's fasted framework for building websites" and [Blowfish](https://blowfish.page/), an amazing and lightweight Hugo theme. <br> Check out their work and start your own website!
+
 

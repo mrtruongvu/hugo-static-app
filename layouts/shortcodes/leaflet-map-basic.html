@@ -27,20 +27,22 @@ crossorigin=""/>
   var marker = L.marker([mlat, mlng],{ interactive: false }).addTo(map);
   marker.bindPopup(popup).openPopup();
 
+  var gpxf = "{{ .Get "gpxf" }}";
   
-  
+  {{/*  "/gpx/hoellental.gpx"  */}}
+
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
 
-new L.GPX("/gpx/hoellental.gpx", {
+new L.GPX(gpxf, {
   async: true,
   marker_options: {
-      startIconUrl: 'path-to-start-icon',
-      endIconUrl: 'path-to-end-icon',
-      shadowUrl: 'path-to-shadow'
+      startIconUrl: '/gpx/start.png',
+      endIconUrl: '/gpx/end.png',
+      shadowUrl: '/gpx/shadow.png'
   }
 }).on('loaded', function(e) {
     map.fitBounds(e.target.getBounds());

@@ -26,7 +26,7 @@ heroStyle: background
 
 <!-- <iframe src="https://www.komoot.com/tour/102593031/embed?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL" width="100%" height="500" frameborder="0" scrolling="no"></iframe> -->
 
-{{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpx= "gpx/hoellentax.gpx">}} 
+{{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/hoellental.gpx">}} 
 
 <br>
 
