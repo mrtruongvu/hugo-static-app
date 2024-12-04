@@ -1,9 +1,12 @@
 ---
 title: "Höllental & Hupfleitenjoch - Germany"
+description: "Höllental & Hupfleitenjoch - A demanding but rewarding hike in Garmisch-Partenkirchen with a view of Zugspitze"
 date: 2024-11-30
 draft: false
 summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
-#tags: ["space"]
+tags: ["eastern-alps", "hike"]
+relatedTag: ["eastern-alps"]
+
 
 showTableOfContents: false
 showDate: true
@@ -12,7 +15,7 @@ showReadingTime: true
 layoutBackgroundBlur: true
 showPagination: false
 # showBreadcrumbs: true
-showRelatedContent: false
+showRelatedContent: true
 heroStyle: background
 
 ---
