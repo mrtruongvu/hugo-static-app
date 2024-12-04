@@ -2,7 +2,8 @@
   
   @font-face {
     font-family: 'MyHeaderFont';
-    src: url('/fonts/font-lato.ttf');
+    src: url('/fonts/font-leaguespartan.woff2') format('woff2'),
+         url('/fonts/font-leaguespartan.woff') format('woff');
     font-weight: normal;
     font-style: normal;
   }
