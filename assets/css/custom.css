@@ -125,3 +125,9 @@ td {
     /* OR */
     touch-action: none;  /* Disable touch zoom specifically */
   }
+
+  .medium-zoom-image {
+    pointer-events: none; 
+    /* OR */
+    touch-action: none; 
+  }
