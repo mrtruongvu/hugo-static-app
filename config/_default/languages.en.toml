@@ -16,13 +16,13 @@ title = "mrtruongvu"
 
 [params.author]
   name = "Truong Vu"
-  email = "truong.vu.tv@gmail.com"
+  email = "truong.vu@live.de"
   image = "profile.jpg"
   imageQuality = 96
 #  headline = "Welcome to my world!"
   bio = "🇻🇳 🇩🇪"
   links = [
-    { email = "mailto:truong.vu.tv@gmail.com" },
+    { email = "mailto:truong.vu@live.de" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
