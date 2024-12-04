@@ -1,6 +1,6 @@
 ---
-title: "About Truong"
-description: "Learn more about me and my journey."
+title: "About me"
+description: "I am Truong Vu, a passionate traveller!"
 showAuthor: true
 showAuthorBottom: false
 showDate: false

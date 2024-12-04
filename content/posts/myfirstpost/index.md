@@ -1,5 +1,5 @@
 ---
-title: "Why I started my very first website."
+title: "How I started my very first website."
 date: 2024-11-30
 draft: false
 summary: "How I finally got this website running."
@@ -24,4 +24,5 @@ I have been wanting to create my own website for years and thanks to [Hugo](http
 {{< alert icon="circle-info" cardColor="#3371ab" iconColor="#1d3557" textColor="#f1faee" >}}
 This part of the website is still under construction!
 {{< /alert >}}
+
 

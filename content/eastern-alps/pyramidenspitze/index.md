@@ -2,7 +2,7 @@
 title: "Pyramidenspitze - Austria"
 date: 2024-12-04
 draft: false
-summary: "A steep ascent to the second highest peaks of Zahmer Kaiser"
+summary: "A steep ascent to the second highest peak of Zahmer Kaiser"
 #tags: ["space"]
 
 showTableOfContents: false
