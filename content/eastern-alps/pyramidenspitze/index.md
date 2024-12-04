@@ -12,7 +12,7 @@ showReadingTime: true
 layoutBackgroundBlur: true
 showPagination: false
 # showBreadcrumbs: true
-showRelatedContent: false
+showRelatedContent: true
 heroStyle: background
 
 ---
