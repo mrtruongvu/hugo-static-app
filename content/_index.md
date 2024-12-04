@@ -5,7 +5,10 @@ description: "Turn your next trip into an adventure! Get the best hiking tips an
 👋
 
 {{< typeit
-speed = 25 >}}
-Hello you! I am currently updating content on my new website.
-Come back soon!
+speed = 13 >}} Hello you, welcome to my blog! I am Truong, a passionate traveller and nature enthusiast. This blog offers curated hikes and other travel tips to help you take your trip to the next level!
+
+I am currently updating content on my new website.
+
+Check back soon!
+
 {{< /typeit >}}
