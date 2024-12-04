@@ -26,7 +26,6 @@ A bit about me ...
   <img src="gallery/04.jpg" class="grid-w33" />
   <img src="gallery/05.jpg" class="grid-w33" />
   <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpeg" class="grid-w33" />
 {{< /gallery >}}
 
 
