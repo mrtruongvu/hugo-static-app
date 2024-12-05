@@ -7,7 +7,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 showPagination: false
-heroStyle: background
+heroStyle: basic
 layoutBackgroundBlur: true
 # showHero: false
 ---

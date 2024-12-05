@@ -182,8 +182,11 @@ th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
   width: 20%; /* Adjust the width as needed */
 }
 
-body.page-travelblog .container { /* More specific selector */
-  max-width: 100% !important; 
+.prose {
+  max-width: 100%;
 }
 
+.max-w-prose {
+  max-width: 100%;
+}
 
