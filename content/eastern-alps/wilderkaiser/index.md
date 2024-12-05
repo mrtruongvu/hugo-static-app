@@ -58,7 +58,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 <br>
 
-{{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/hoellental.gpx">}} 
+{{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/wilderkaiser.gpx">}} 
 
 <br>
 

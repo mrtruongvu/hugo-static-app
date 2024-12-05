@@ -59,7 +59,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 
 
-{{< leaflet-map-basic lat=47.62419643865845 lng=12.274109329866901 zoom=20 mlat=47.6385860456063 mlng=12.287809684617603 popup="Starting point: Walchsee Durchholzen bus station" gpxf="/gpx/pyramidenspitze.gpx">}} 
+{{< leaflet-map-basic lat=47.62419643865845 lng=12.274109329866901 zoom=16 mlat=47.6385860456063 mlng=12.287809684617603 popup="Starting point: Walchsee Durchholzen bus station" gpxf="/gpx/pyramidenspitze.gpx">}} 
 
 <br>
 

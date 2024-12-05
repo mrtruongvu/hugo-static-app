@@ -58,9 +58,5 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 <br>
 
-{{< alert icon="circle-info" cardColor="#3371ab" iconColor="#1d3557" textColor="#f1faee" >}}
-This part of the website is still under construction!
-{{< /alert >}}
+{{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/elpijiral.gpx">}} 
 
-
-...
