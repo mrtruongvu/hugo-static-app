@@ -1,3 +1,4 @@
+  /*Creating font family for headers*/
   @font-face {
     font-family: 'MyHeaderFont';
     src: url('/fonts/font-leaguespartan.woff2') format('woff2'),
@@ -6,35 +7,24 @@
     font-style: normal;
   }
 
+  /*Creating font family for body*/
   @font-face {
     font-family: 'BodyFont';
     src: url('/fonts/font-merriweather.ttf');
   }
   
+  /*Applying font family for header*/
   h1, h2, h3, h4, h5, h6 {
     font-family: 'MyHeaderFont', sans-serif;
   }
-  
+
+  /*Applying font family for body*/
   body {
     font-family: 'BodyFont';
   }
 
 
-
-
-body {
-    text-align: left;
-    margin: 0;
-    padding: 0; 
-  }
-
-
-/* Increase the default font size */
-html {
-    font-size: 13.2pt;
-  }
-
-  @media screen and (min-width: 0px) {
+  /* @media screen and (min-width: 0px) {
     .customthumb {
         width: 100%;
         height: 220px;
@@ -57,10 +47,9 @@ html {
         object-fit: contain;
         border-radius: 4%;
     }
+} */
 
-}
-
-@media screen and (min-width: 700px) {
+/* @media screen and (min-width: 700px) {
     .customEntitityLogo {
         background-color: aliceblue;
         pointer-events: none;
@@ -76,7 +65,6 @@ html {
         object-fit: contain;
         border-radius: 4%;
     }
-
 }
 
 @media screen and (min-width: 1250px) {
@@ -103,34 +91,79 @@ html {
         object-fit: contain;
         border-radius: 4%;
     }
+} */
 
-}
-
-td {
-    vertical-align: middle !important;
-}
-
-#map img.leaflet-marker-icon {
+@media screen and (min-width: 700px) {
+  .customEntitityLogo {
+    background-color: aliceblue;
     pointer-events: none;
+    position: relative;
+    min-width: 2.8rem; /* 45px converted to rem */
+    width: 2.8rem;      /* 45px converted to rem */
+    height: 2.8rem;     /* 45px converted to rem */
+    margin: 0;
+    margin-left: 0;
+    margin-top: 0.625rem; /* 10px converted to rem */
+    margin-bottom: 0.625rem; /* 10px converted to rem */
+    padding: 0.1875rem;  /* 3px converted to rem */
+    object-fit: contain;
+    border-radius: 4%;
+  }
+}
+
+@media screen and (min-width: 1250px) {
+  .customthumb {
+    width: 18.75rem;   /* 300px converted to rem */
+    height: 11.25rem;  /* 180px converted to rem */
+    object-fit: cover;
+    box-shadow: 0.625rem 0.625rem 1.875rem 0.125rem rgba(0, 0, 0, 0.6); /* Converted to rem */
+    margin-right: 1.875rem; /* 30px converted to rem */
   }
 
-    .no-zoom img { 
-    pointer-events: none; 
+  .customEntitityLogo {
+    background-color: aliceblue;
+    pointer-events: none;
+    position: relative;
+    min-width: 2.8rem;  /* 45px converted to rem */
+    width: 2.8rem;       /* 45px converted to rem */
+    height: 2.8rem;      /* 45px converted to rem */
+    margin: 0;
+    margin-left: 0;
+    margin-top: 0.625rem; /* 10px converted to rem */
+    margin-bottom: 0.625rem; /* 10px converted to rem */
+    padding: 0.5rem;    /* 8px converted to rem */
+    object-fit: contain;
+    border-radius: 4%;
   }
+}
 
-  .gr_grid_book_container img { 
-    pointer-events: none; /* Disable all pointer events, including zoom */
-    /* OR */
-    touch-action: none;  /* Disable touch zoom specifically */
-  }
 
-  .medium-zoom-image {
-    pointer-events: none; 
-    /* OR */
-    touch-action: none; 
-  }
 
-  th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
-    width: 20%; /* Adjust the width as needed */
-  }
+/*Prevents leaflet map marker from being clickable*/
+#map img.leaflet-marker-icon {
+  pointer-events: none;
+}
+
+
+
+/*Prevents goodreads shelf widget to be clickable*/
+.gr_grid_book_container img { 
+  pointer-events: none; /* Disable all pointer events, including zoom */
+}
+
+/*Prevents pictures of class medium-zoom-image (normal images on page, profile pic, etc.) from being clickable*/
+.medium-zoom-image {
+  pointer-events: none; 
+}
+
+
+
+/*targets all <td> elements (table cells) and sets their vertical alignment to middle (Experience and education table on about page)*/
+td {
+  vertical-align: middle !important;
+}
+/*targets the second column in table and sets its width to 20%.*/
+th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
+  width: 20%; /* Adjust the width as needed */
+}
 
