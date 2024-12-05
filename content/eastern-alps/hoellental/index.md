@@ -17,7 +17,6 @@ showPagination: false
 showRelatedContent: true
 heroStyle: background
 sharingLinks: [ "facebook", "whatsapp", "email"]
-showZenMode: true
 ---
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
