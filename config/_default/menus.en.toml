@@ -38,9 +38,7 @@
 
 [[main]]
   name = "Where I hike"
-  pageRef = "travelblog"
   weight = 30
-
 
 
 [[main]]
