@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.67a08d8368b34f6401a7e8ec598bbab3e14a01f6954d07459bb22d58fa616afd7ed4910cafa63da9008969c2214744dcf952f552237d610e9699ad735c9f3e0c.css"
-    integrity="sha512-Z6CNg2izT2QBp&#43;jsWYu6s&#43;FKAfaVTQdFm7ItWPphav1&#43;1JEMr6Y9qQCJacIhR0Tc&#43;VL1UiN9YQ6Wma1zXJ8&#43;DA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.b0b50e6852b071b02a16c221968586d392fc04c19f7437f3a61d2a5f41f83789f841a91d7fc0fb744015e6b3669ee8a21effe963e62d34af5caa54869c852b83.css"
+    integrity="sha512-sLUOaFKwcbAqFsIhloWG05L8BMGfdDfzph0qX0H4N4n4Qakdf8D7dEAV5rNmnuiiHv/pY&#43;YtNK9cqlSGnIUrgw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -99,7 +99,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "15"
+    "wordCount": "76"
   }]
   </script>
 
@@ -531,10 +531,34 @@
   
  
 
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/image.jpg);"></div>
-        
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
     
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/image.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
   
   
 
@@ -617,6 +641,7 @@
 
         <div class="article-content max-w-prose mb-20">
           <p>Welcome to Truong&rsquo;s hiking blog!</p>
+<p>Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.</p>
 <p>Pick one of the continents and explore my hikes below:</p>
 <br> 
 <!-- Datawrapper map -->
