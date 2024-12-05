@@ -182,15 +182,5 @@ th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
   width: 20%; /* Adjust the width as needed */
 }
 
-th:nth-child(4), td:nth-child(4) { /* Targets the 2nd column (Company) */
-  width: 20%; /* Adjust the width as needed */
-}
 
-.prose {
-  max-width: 100%;
-}
-
-.max-w-prose {
-  max-width: 100%;
-}
 
