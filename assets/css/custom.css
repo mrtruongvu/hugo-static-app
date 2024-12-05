@@ -31,6 +31,12 @@
     font-family: 'BodyFont';
   }
 
+  html {
+    font-size: 1.1rem; 
+  }
+
+
+
   /* --------------------
    Media Queries
    -------------------- */
