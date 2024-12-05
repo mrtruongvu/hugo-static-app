@@ -5,7 +5,6 @@ date: 2024-11-30
 draft: false
 summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
 tags: ["eastern-alps", "hike"]
-relatedTag: ["eastern-alps"]
 
 
 showTableOfContents: false
@@ -19,11 +18,6 @@ showRelatedContent: true
 heroStyle: background
 
 ---
-<!-- {{< figure
-    src="featured.jpg"
-    alt="A photo of the German Alps"
-    nozoom=true
-    >}} -->
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
  📍 Garmisch-Partenkirchen, Germany
@@ -31,13 +25,14 @@ heroStyle: background
 {{< /alert >}}
 
 ## A demanding but rewarding hike in Garmisch-Partenkirchen with a view of Zugspitze 
-
 Introduction and some basic information about the hike and surroundings ...
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
 
 <br>
 
 ### What's special about this hike?
 Highlights of the hike, text 
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
 
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="1500" >}}
 
@@ -55,13 +50,15 @@ Highlights of the hike, text
 <br>
 
 ### How to get there ..
-awdawda
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
 
 <br>
 
 ### The hike
-
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
 <br>
+<br>
+
 
 
 {{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/hoellental.gpx">}} 

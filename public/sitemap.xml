@@ -68,11 +68,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/travelblog/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/africa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

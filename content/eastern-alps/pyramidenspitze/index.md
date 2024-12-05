@@ -16,26 +16,51 @@ showRelatedContent: true
 heroStyle: background
 
 ---
-<!-- {{< figure
-    src="featured.jpg"
-    alt="A photo of the German Alps"
-    nozoom=true
-    >}} -->
 
-## Summary of the hike 🗻
+{{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
+ 📍 xxx
 
-<!-- <iframe src="https://www.komoot.com/tour/102593031/embed?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL" width="100%" height="500" frameborder="0" scrolling="no"></iframe> -->
+{{< /alert >}}
 
-{{< leaflet-map-basic lat=47.6385860456063 lng=12.287809684617603 zoom=16 mlat=47.6385860456063 mlng=12.287809684617603 popup="Starting point: Walchsee Durchholzen bus station" gpxf="/gpx/pyramidenspitze.gpx">}} 
+## Concise and informative header 
+
+Introduction and some basic information about the hike and surroundings ...
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+<br>
+
+### What's special about this hike?
+Highlights of the hike, text 
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="1500" >}}
 
 
+<br>
 <br>
 
 
 
-{{< alert icon="circle-info" cardColor="#3371ab" iconColor="#1d3557" textColor="#f1faee" >}}
-This part of the website is still under construction!
+{{< alert icon=none cardColor="#f8de88" iconColor="#1d2635" textColor="#1d2635" >}}
+ 🚩 xxx km point-to-point | ⌛ xxx hours | ↗️ xxx meters | ↘️ xxx meters 
+
 {{< /alert >}}
 
+<br>
 
-...
+### How to get there ..
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+
+<br>
+
+### The hike
+Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+
+<br>
+<br>
+
+
+{{< leaflet-map-basic lat=47.62419643865845 lng=12.274109329866901 zoom=20 mlat=47.6385860456063 mlng=12.287809684617603 popup="Starting point: Walchsee Durchholzen bus station" gpxf="/gpx/pyramidenspitze.gpx">}} 
+
+<br>
+
+
