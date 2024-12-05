@@ -3,7 +3,7 @@ title: "Wilder Kaiser - Austria"
 date: 2024-11-30
 draft: false
 summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
-#tags: ["space"]
+tags: ["eastern-alps", "hike"]
 
 showTableOfContents: false
 showDate: true

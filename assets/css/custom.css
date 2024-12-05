@@ -135,3 +135,4 @@ td {
   th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
     width: 20%; /* Adjust the width as needed */
   }
+
