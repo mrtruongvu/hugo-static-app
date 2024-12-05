@@ -41,7 +41,7 @@
    Media Queries
    -------------------- */
    
-  /* @media screen and (min-width: 0px) {
+  @media screen and (min-width: 0px) {
     .customthumb {
         width: 100%;
         height: 220px;
@@ -64,9 +64,9 @@
         object-fit: contain;
         border-radius: 4%;
     }
-} */
+}
 
-@media screen and (min-width: 700px) {
+/* @media screen and (min-width: 700px) {
     .customEntitityLogo {
         background-color: aliceblue;
         pointer-events: none;
@@ -108,9 +108,51 @@
         object-fit: contain;
         border-radius: 4%;
     }
+} */
+
+@media screen and (min-width: 700px) {
+  .customEntitityLogo {
+    background-color: aliceblue;
+    pointer-events: none;
+    position: relative;
+    min-width: 2.8rem; /* 45px converted to rem */
+    width: 2.8rem;      /* 45px converted to rem */
+    height: 2.8rem;     /* 45px converted to rem */
+    margin: 0;
+    margin-left: 0;
+    margin-top: 0.625rem; /* 10px converted to rem */
+    margin-bottom: 0.625rem; /* 10px converted to rem */
+    padding: 0.1875rem;  /* 3px converted to rem */
+    object-fit: contain;
+    border-radius: 4%;
+  }
 }
 
+@media screen and (min-width: 1250px) {
+  .customthumb {
+    width: 18.75rem;   /* 300px converted to rem */
+    height: 11.25rem;  /* 180px converted to rem */
+    object-fit: cover;
+    box-shadow: 0.625rem 0.625rem 1.875rem 0.125rem rgba(0, 0, 0, 0.6); /* Converted to rem */
+    margin-right: 1.875rem; /* 30px converted to rem */
+  }
 
+  .customEntitityLogo {
+    background-color: aliceblue;
+    pointer-events: none;
+    position: relative;
+    min-width: 2.8rem;  /* 45px converted to rem */
+    width: 2.8rem;       /* 45px converted to rem */
+    height: 2.8rem;      /* 45px converted to rem */
+    margin: 0;
+    margin-left: 0;
+    margin-top: 0.625rem; /* 10px converted to rem */
+    margin-bottom: 0.625rem; /* 10px converted to rem */
+    padding: 0.5rem;    /* 8px converted to rem */
+    object-fit: contain;
+    border-radius: 4%;
+  }
+} 
 
 /* --------------------
    Utility/Shortcode Styles
