@@ -24,7 +24,6 @@ No matter whether you are sipping wine on one of the many islands of the Mediter
     target="_self"
     >}}
 
-
 {{< figure
     src="canary.jpg"
     alt="A photo of a forest in Tenerife"

@@ -1,3 +1,11 @@
+  /* ----------------------------------------------
+   Custom Styles for My Hugo Website
+   ---------------------------------------------- */
+  
+  /* --------------------
+   General Styles
+   -------------------- */
+  
   /*Creating font family for headers*/
   @font-face {
     font-family: 'MyHeaderFont';
@@ -23,7 +31,10 @@
     font-family: 'BodyFont';
   }
 
-
+  /* --------------------
+   Media Queries
+   -------------------- */
+   
   /* @media screen and (min-width: 0px) {
     .customthumb {
         width: 100%;
@@ -137,7 +148,9 @@
   }
 }
 
-
+/* --------------------
+   Utility/Shortcode Styles
+   -------------------- */
 
 /*Prevents leaflet map marker from being clickable*/
 #map img.leaflet-marker-icon {
@@ -145,18 +158,20 @@
 }
 
 
-
 /*Prevents goodreads shelf widget to be clickable*/
 .gr_grid_book_container img { 
   pointer-events: none; /* Disable all pointer events, including zoom */
 }
+
 
 /*Prevents pictures of class medium-zoom-image (normal images on page, profile pic, etc.) from being clickable*/
 .medium-zoom-image {
   pointer-events: none; 
 }
 
-
+/* --------------------
+   Table Styles
+   -------------------- */
 
 /*targets all <td> elements (table cells) and sets their vertical alignment to middle (Experience and education table on about page)*/
 td {
@@ -166,4 +181,9 @@ td {
 th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
   width: 20%; /* Adjust the width as needed */
 }
+
+body.page-travelblog .container { /* More specific selector */
+  max-width: 100% !important; 
+}
+
 
