@@ -23,6 +23,7 @@ Some of my friends would describe me as a goofball who's fun to be around. Other
 
 Now scroll down for more about me!
 
+
 <br>
 <br>
 

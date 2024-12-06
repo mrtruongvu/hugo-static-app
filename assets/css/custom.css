@@ -201,3 +201,11 @@ th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
 .main-menu a.active { /* Add .active class for the active link */
   border-color: #f8de88; 
 }
+
+/* --------------------
+   Leaflet Map Styles
+   -------------------- */
+
+#map { /* The Leaflet map container */
+  z-index: 90; 
+}

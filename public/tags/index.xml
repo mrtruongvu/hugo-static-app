@@ -22,11 +22,11 @@
     </item>
     
     <item>
-      <title>Hike</title>
-      <link>//localhost:1313/tags/hike/</link>
+      <title>Hiking</title>
+      <link>//localhost:1313/tags/hiking/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
-      <guid>//localhost:1313/tags/hike/</guid>
+      <guid>//localhost:1313/tags/hiking/</guid>
       <description></description>
       
     </item>
@@ -37,16 +37,6 @@
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
       <guid>//localhost:1313/tags/canary-islands/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hiking</title>
-      <link>//localhost:1313/tags/hiking/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <author>truong.vu@live.de (Truong Vu)</author>
-      <guid>//localhost:1313/tags/hiking/</guid>
       <description></description>
       
     </item>
