@@ -188,5 +188,16 @@ th:nth-child(2), td:nth-child(2) { /* Targets the 2nd column (Company) */
   width: 20%; /* Adjust the width as needed */
 }
 
+/* --------------------
+   Menu Styles
+   -------------------- */
 
+.main-menu a { /* Targets all links in the main menu */
+  border-bottom: 1px solid transparent; /* Adds a transparent border by default */
+  transition: border-color 0.3s ease; /* Smooth transition for the border color */
+}
 
+.main-menu a:hover,
+.main-menu a.active { /* Add .active class for the active link */
+  border-color: #f8de88; 
+}

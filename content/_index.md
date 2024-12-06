@@ -5,10 +5,9 @@ description: "Turn your next trip into an adventure! Get the best hiking tips an
 👋
 
 {{< typeit
-speed = 13 >}} Hello you, welcome to my blog! I am Truong, a passionate traveller and nature enthusiast. This blog offers curated hikes and other travel tips to help you take your trip to the next level!
+speed = 13 >}}Hello there! Welcome to this remote corner of the world wide web. I am Truong and this is my little contribution to the internet. Here, you’ll find blog posts about the best hikes, tech that inspires me, and my life. 
 
-I am currently updating content on my new website.
+I am still updating content on my new website.
 
-Check back soon!
-
+Feel free to explore and check back soon!
 {{< /typeit >}}

@@ -14,7 +14,7 @@ showReadingTime: true
 heroStyle: background
 layoutBackgroundBlur: true
 showPagination: false
-sharingLinks: [ "facebook", "whatsapp", "email"]
+#sharingLinks: [ "facebook", "whatsapp", "email"]
 ---
 
 ## Celebrate with me! 🎇

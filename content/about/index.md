@@ -13,16 +13,27 @@ showTableOfContents: false
 ---
 <br> 
 
-A bit about me ...
+You've travelled far to get here, but I'm glad you've made it to my little blog. Now that you're here, I'm sure you're curious about the person behind it.
 
-### Books I read ...
+Let me tell you, I am certainly not a writer — well, until now. I'm exploring writing and creating blog posts as a new creative outlet alongside other pastimes, such as getting my hands bruised at the local climbing gym or fiddling with the latest technology. Yes, I am the kind of person who always has to buy the latest gadgets even after telling myself that the next generation isn't going to be much better and that I should stick to it for at least two years. But I guess that's just my curiosity and desire for new experiences shining through.
 
+Above all, nothing is more important to me than human connection. All good things in the world spring out of mutual understanding, compassion, and kindness towards one another. That's what I believe in and what I try to practice in both my personal and professional life.
+
+Some of my friends would describe me as a goofball who's fun to be around. Others say I'm a good listener for relationship crises or existential life questions. But at the end of the day, I try not to take life too seriously. 
+
+Now scroll down for more about me!
+
+<br>
+<br>
+
+### Some books I read 
 {{< goodreads-shelf >}}
 
 
 <br> 
 
-### Things I do ...
+### A few things I do 
+<br> 
 
 
 {{< gallery >}}
@@ -42,7 +53,8 @@ A bit about me ...
 
 
 
-### Experience
+### Where I worked
+
 
 <table style="width: 100%;">
     <thead>
@@ -96,7 +108,7 @@ A bit about me ...
 <br> 
 
 
-### Education
+### What I studied
 
 
 <table style="width: 100%;">

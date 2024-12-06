@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mrtruongvu</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on mrtruongvu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>truong.vu@live.de (Truong Vu)</managingEditor>
     <webMaster>truong.vu@live.de (Truong Vu)</webMaster>
     <copyright>© 2024 Truong Vu</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How I started my very first website.</title>
-      <link>/posts/myfirstpost/</link>
+      <link>//localhost:1313/posts/myfirstpost/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
-      <guid>/posts/myfirstpost/</guid>
+      <guid>//localhost:1313/posts/myfirstpost/</guid>
       <description>How I finally got this website running.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/myfirstpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/myfirstpost/featured.jpg" />
     </item>
     
   </channel>
