@@ -3,7 +3,7 @@ title: "Pyramidenspitze - Austria"
 date: 2024-12-04
 draft: false
 summary: "A steep ascent to the second highest peak of Zahmer Kaiser"
-tags: ["eastern-alps", "hike"]
+tags: ["eastern alps", "hiking"]
 
 showTableOfContents: false
 showDate: true

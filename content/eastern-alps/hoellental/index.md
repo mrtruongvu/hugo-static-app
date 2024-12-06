@@ -4,7 +4,7 @@ description: "Höllental & Hupfleitenjoch - A demanding but rewarding hike in Ga
 date: 2024-11-30
 draft: false
 summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
-tags: ["eastern-alps", "hike"]
+tags: ["eastern alps", "hiking"]
 
 
 showTableOfContents: false

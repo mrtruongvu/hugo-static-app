@@ -3,7 +3,7 @@ title: "Schachenhaus & Rheintal - Germany"
 date: 2024-11-30
 draft: false
 summary: "22 km hike from Garmisch-Partenkirchen"
-tags: ["eastern-alps", "hike"]
+tags: ["eastern alps", "hiking"]
 
 showTableOfContents: false
 showDate: true

@@ -3,7 +3,7 @@ title: "How I started my very first website."
 date: 2024-11-30
 draft: false
 summary: "How I finally got this website running."
-tags: ["space"]
+tags: ["tech"]
 
 showAuthor: true
 showAuthorBottom: true

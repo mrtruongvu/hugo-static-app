@@ -3,7 +3,7 @@ title: "El Pijaral Natural Reserve"
 date: 2024-11-30
 draft: false
 summary: "Information about Höllental"
-tags: ["canary", "hike"]
+tags: ["canary islands", "hiking"]
 
 showTableOfContents: false
 showDate: true

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canary on mrtruongvu</title>
+    <link>//localhost:1313/tags/canary/</link>
+    <description>Recent content in Canary on mrtruongvu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>truong.vu@live.de (Truong Vu)</managingEditor>
+    <webMaster>truong.vu@live.de (Truong Vu)</webMaster>
+    <copyright>© 2024 Truong Vu</copyright>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/canary/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>El Pijaral Natural Reserve</title>
+      <link>//localhost:1313/canary/elpijaral/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>//localhost:1313/canary/elpijaral/</guid>
+      <description>Information about Höllental</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/canary/elpijaral/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
