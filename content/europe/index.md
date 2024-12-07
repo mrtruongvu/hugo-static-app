@@ -31,3 +31,19 @@ No matter whether you are sipping wine on one of the many islands of the Mediter
     href="/canary"
     target="_self"
     >}}
+
+{{< figure
+    src="madeira.jpg"
+    alt="A photo of a village in Madeira"
+    nozoom=true
+    href="/madeira"
+    target="_self"
+    >}}
+
+{{< figure
+    src="mediterranean.jpg"
+    alt="A photo of a lake in Mallorca"
+    nozoom=true
+    href="/mediterranean"
+    target="_self"
+    >}}
