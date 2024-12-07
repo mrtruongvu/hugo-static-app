@@ -9,8 +9,6 @@ showReadingTime: false
 showPagination: false
 layoutBackgroundBlur: true
 # showHero: false
-cardView: false
-showBreadcrumbs: true
 
 ---
 <br> 
