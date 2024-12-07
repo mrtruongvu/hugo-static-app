@@ -4,6 +4,36 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eastern-alps/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eastern-alps/pyramidenspitze/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/canary/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/canary/elpijaral/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eastern-alps/hoellental/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -16,6 +46,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eastern-alps/schachenhaus/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eastern-alps/wilderkaiser/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -37,6 +79,16 @@
   </url>
   <url>
     <loc>http://localhost:1313/europe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/madeira/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mediterranean/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
