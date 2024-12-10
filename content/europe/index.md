@@ -11,7 +11,10 @@ heroStyle: background
 layoutBackgroundBlur: true
 # showHero: false
 ---
-No matter whether you are sipping wine on one of the many islands of the Mediterranean or exploring the Gothic castles of Central Europe, you are only one bus ride away from an epic hike. Most major destinations in Europe are close to nature which is why Europe remains one of my favourite places to be. Unless you are in the middle of the Dutch coastal plains, there is really no excuse not to escape the noise of the city and explore one of the greatest treasures that Europe has to offer. 
+No matter whether you are sipping wine on one of the many islands of the Mediterranean or exploring the Gothic castles of Central Europe, you are only one bus ride away from an epic hike. Most major destinations in Europe are close to nature which is why Europe remains one of my favourite places to be. Unless you are in the middle of the Dutch coastal plains, there is really no excuse not to escape the noise of the city and explore one of the greatest treasures that Europe has to offer.
+<br>
+
+From the alpine mountains of South Bavaria to the mystical forests of Tenerife, explore the most amazing day hikes that I've curated and click on one of the regions below:
 
 <br> 
 

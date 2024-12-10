@@ -1,5 +1,5 @@
 ---
-title: "El Pijaral Natural Reserve"
+title: "El Pijaral Natural Reserve - Tenerife"
 date: 2024-11-30
 draft: false
 summary: "Information about Höllental"

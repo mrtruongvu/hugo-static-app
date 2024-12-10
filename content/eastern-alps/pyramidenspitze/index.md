@@ -30,7 +30,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 
 ### What's special about this hike?
-- Höllentalklamm, a beautiful gorge only open from spring to autumn
+- Via ferrata section
 - Variety of scenery
 - Stunning views of the Zugspitze
 - Some exposed sections of the trail

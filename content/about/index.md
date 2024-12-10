@@ -47,7 +47,7 @@ Now scroll down for more about me!
   <img src="gallery/06.jpg" class="grid-w33" />
   <img src="gallery/07.jpg" class="grid-w33" />
   <img src="gallery/08.jpg" class="grid-w33" />
-    <img src="gallery/09.jpg" class="grid-w33" />
+  <img src="gallery/09.jpg" class="grid-w33" />
 
 
 {{< /gallery >}}
