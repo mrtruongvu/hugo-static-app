@@ -45,6 +45,11 @@ Now scroll down for more about me!
   <img src="gallery/04.jpg" class="grid-w33" />
   <img src="gallery/05.jpg" class="grid-w33" />
   <img src="gallery/06.jpg" class="grid-w33" />
+  <img src="gallery/07.jpg" class="grid-w33" />
+  <img src="gallery/08.jpg" class="grid-w33" />
+    <img src="gallery/09.jpg" class="grid-w33" />
+
+
 {{< /gallery >}}
 
 
@@ -53,9 +58,6 @@ Now scroll down for more about me!
 <br> 
 
 
-{{< button href="https://www.linkedin.com/in/truongvu3/" target="_self" >}}
-Me on LinkedIn!
-{{< /button >}}
 
 
 ---
