@@ -70,11 +70,40 @@ A journey from Munich Central Railway Station to Hammersbach should take around 
 ### The hike
 The trail starts in a residential area and follows a stream, the Hammersbach, for quite a while before you ascend higher towards the valley. After climbing up the first few hundred metres or so, you will notice that the trail heads in the direction of the Höllentalklamm, a gorge through which the stream runs. It is typically only open in summer and closed in winter, which means you have to take an alternative route to go deeper into the valley instead of taking the more direct trail through the gorge.
 
+<br>
+
+{{< figure
+    src="1.jpg"
+    nozoom=true
+    >}}
+
+<br>
+
+
 After following the steep path to the right of the entrance to the gorge, you will find yourself basically on top of the gorge. Follow the trail, and you will reach the Panoramabrücke, a bridge that spans across the valley and offers a breathtaking opportunity to marvel at the gorge from above. Cross the bridge and follow the trail further into the valley towards the Zugspitze, then take a left turn at the sign pointing towards Hupfleitenjoch, a mountain saddle in the direction of town. Halfway to the saddle, there will be a hut (Knappenhäuser), which was uninhabited at the time I was there. The remaining trail to the saddle is straightforward and offers a nice view of the valley, now from the south side.
+
+<br>
+
+{{< figure
+    src="2.jpg"
+    nozoom=true
+    >}}
+
+<br>
 
 Once you have reached Hupfleitenjoch, there will be the opportunity to climb a peak called Schwarzenkopf. I decided against it, as it was marked as hazardous in snowy conditions. Don’t forget to enjoy the view of Zugspitze from here! 
 
-Follow the signs in the direction of Kreuzeckhaus and take a left turn onto Jägersteig, a steep trail that will take you back to Kreuzeck/Alpspitzbahn station.
+<br>
+
+{{< figure
+    src="3.jpg"
+    nozoom=true
+    >}}
+
+<br>
+
+Follow the signs in the direction of Kreuzeckhaus and take a left turn onto Jägersteig, a steep trail that will take you back to Kreuzeck/Alpspitzbahn station.<br>
+You made it! 👏
 
 <br>
 <br>
@@ -84,5 +113,10 @@ Follow the signs in the direction of Kreuzeckhaus and take a left turn onto Jäg
 {{< leaflet-map-basic lat=47.46490166871423 lng=11.044871216684758 zoom=16 mlat=47.46490166871423 mlng=11.044871216684758 popup="Starting point: Hammersbach bus station" gpxf="/gpx/hoellental.gpx">}} 
 
 <br>
+
+
+{{< button href="https://www.komoot.com/tour/102593031?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL&ref=wtd" target="_self" >}}
+Click here for more details on Komoot!
+{{< /button >}}
 
 
