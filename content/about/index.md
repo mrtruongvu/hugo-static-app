@@ -24,6 +24,7 @@ Some of my friends would describe me as a goofball who's fun to be around. Other
 Now scroll down for more about me!
 
 
+
 <br>
 <br>
 
@@ -159,4 +160,4 @@ Now scroll down for more about me!
 This website would never exist without [Hugo](https://gohugo.io/)
 , "the world's fasted framework for building websites" and [Blowfish](https://blowfish.page/), an amazing and lightweight Hugo theme. <br> Check out their work and start your own website!
 
-
+<br> 
