@@ -71,6 +71,6 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 
 
 {{< button href="https://www.komoot.com/tour/102268321?share_token=a9836ULplJVgsrIVGdzpRyiCfgMRLNBGb59T2RhfJ7hzT9VM2J&ref=wtd" target="_self" >}}
-Click here for more details on Komoot!
+Click here for Komoot!
 {{< /button >}}
 

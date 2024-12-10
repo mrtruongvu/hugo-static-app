@@ -117,7 +117,7 @@ You made it! 👏
 
 
 {{< button href="https://www.komoot.com/tour/102593031?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL&ref=wtd" target="_self" >}}
-Click here for more details on Komoot!
+Click here for Komoot!
 {{< /button >}}
 
 
