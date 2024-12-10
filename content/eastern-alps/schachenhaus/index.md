@@ -17,7 +17,8 @@ heroStyle: background
 ---
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
- 📍 xxx
+ 📍 Starting point: Skistadion bus station, Garmisch-Partenkirchen  <br>
+ 🏴 Destination: (starting point)
 
 {{< /alert >}}
 
@@ -25,11 +26,17 @@ heroStyle: background
 
 Introduction and some basic information about the hike and surroundings ...
 Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+
 <br>
 
 ### What's special about this hike?
-Highlights of the hike, text 
-Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+- Höllentalklamm, a beautiful gorge only open from spring to autumn
+- Variety of scenery
+- Stunning views of the Zugspitze
+- Some exposed sections of the trail
+
+
+<br>
 
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="1500" >}}
 
@@ -40,7 +47,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 
 
 {{< alert icon=none cardColor="#f8de88" iconColor="#1d2635" textColor="#1d2635" >}}
- 🚩 xxx km point-to-point | ⌛ xxx hours | ↗️ xxx meters | ↘️ xxx meters 
+ 🚩 22.6 km point-to-point | ⌛ 8-10 hours | ↗️ 1130 meters | ↘️ 1130 meters 
 
 {{< /alert >}}
 
@@ -57,7 +64,15 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 <br>
 
-{{< leaflet-map-basic lat=47.419501745983695 lng=11.113116280878453 zoom=16 mlat=47.48253936912618 mlng=11.118052450887395 popup="hello" gpxf="/gpx/schachenhaus.gpx">}} 
+
+
+{{< leaflet-map-basic lat=47.419501745983695 lng=11.113116280878453 zoom=16 mlat=47.48253936912618 mlng=11.118052450887395 popup="Skistadion bus station" gpxf="/gpx/schachenhaus.gpx">}} 
 
 <br>
+
+
+{{< button href="https://www.komoot.com/tour/80663928?share_token=a8oyObBLtf6tZY7mD5tiOwayoiL57Fz7BVwaIm75zDAskKTcuU&ref=wtd" target="_self" >}}
+Click here for more details on Komoot!
+{{< /button >}}
+
 

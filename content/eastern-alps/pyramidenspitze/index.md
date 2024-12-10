@@ -17,7 +17,8 @@ heroStyle: background
 ---
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
- 📍 xxx
+ 📍 Starting point: Walchsee Durchholzen bus station, Walchsee<br>
+ 🏴 Destination: Ebbs Schanz bus station, Ebbs
 
 {{< /alert >}}
 
@@ -25,11 +26,17 @@ heroStyle: background
 
 Introduction and some basic information about the hike and surroundings ...
 Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+
 <br>
 
 ### What's special about this hike?
-Highlights of the hike, text 
-Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posuere, enim ut faucibus consequat, quam nulla accumsan orci, ut fringilla risus lorem at risus. Praesent vehicula enim non ligula feugiat, vel consequat eros feugiat. Morbi porttitor ante id neque dignissim, in dictum ligula ultrices. Phasellus ut leo non ex condimentum rutrum. Ut vel ipsum fringilla, venenatis risus sed, scelerisque libero.
+- Höllentalklamm, a beautiful gorge only open from spring to autumn
+- Variety of scenery
+- Stunning views of the Zugspitze
+- Some exposed sections of the trail
+
+
+<br>
 
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="1500" >}}
 
@@ -40,7 +47,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 
 
 {{< alert icon=none cardColor="#f8de88" iconColor="#1d2635" textColor="#1d2635" >}}
- 🚩 xxx km point-to-point | ⌛ xxx hours | ↗️ xxx meters | ↘️ xxx meters 
+ 🚩 14.5 km point-to-point | ⌛ 7-8 hours | ↗️ 1300 meters | ↘️ 1510 meters 
 
 {{< /alert >}}
 
@@ -62,4 +69,8 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 
 <br>
 
+
+{{< button href="https://www.komoot.com/tour/102268321?share_token=a9836ULplJVgsrIVGdzpRyiCfgMRLNBGb59T2RhfJ7hzT9VM2J&ref=wtd" target="_self" >}}
+Click here for more details on Komoot!
+{{< /button >}}
 

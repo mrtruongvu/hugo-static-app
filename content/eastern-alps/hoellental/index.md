@@ -20,7 +20,8 @@ heroStyle: background
 ---
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
- 📍 Garmisch-Partenkirchen, Germany
+ 📍 Starting point: Hammersbach bus station, Garmisch-Partenkirchen<br>
+ 🏴 Destination: Kreuzeck/Alpspitzbahn station, Garmisch-Partenkirchen
 
 {{< /alert >}}
 
