@@ -1,5 +1,5 @@
 ---
-title: "Hiking in the German and Austrian Alps: my favourite day trips!"
+title: "Hiking in the German and Austrian Alps"
 description: "Discover the best day hikes in the Eastern Alps, including South Bavaria and Tyrol, Austria, just a short trip from Munich. Explore accessible trails year-round, from stunning mountain vistas to tranquil valleys. Perfect for nature lovers seeking adventure with day trips that can be completed in one day. Get tips on when to visit for the most peaceful hiking experiences!"
 
 layout: "page"

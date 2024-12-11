@@ -5,7 +5,7 @@ draft: false
 summary: "Information about Höllental"
 tags: ["canary islands", "hiking"]
 
-showTableOfContents: false
+showTableOfContents: true
 showDate: true
 showWordCount: false
 showReadingTime: true

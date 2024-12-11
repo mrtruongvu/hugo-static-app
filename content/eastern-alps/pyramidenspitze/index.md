@@ -5,7 +5,7 @@ draft: false
 summary: "A steep ascent to the second highest peak of Zahmer Kaiser"
 tags: ["eastern alps", "hiking"]
 
-showTableOfContents: false
+showTableOfContents: true
 showDate: true
 showWordCount: false
 showReadingTime: true

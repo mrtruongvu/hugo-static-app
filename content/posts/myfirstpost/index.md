@@ -7,7 +7,7 @@ tags: ["tech"]
 
 showAuthor: true
 showAuthorBottom: true
-showTableOfContents: false
+showTableOfContents: true
 showDate: true
 showWordCount: false
 showReadingTime: true

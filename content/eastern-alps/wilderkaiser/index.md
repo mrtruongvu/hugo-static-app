@@ -5,7 +5,7 @@ draft: false
 summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
 tags: ["eastern alps", "hiking"]
 
-showTableOfContents: false
+showTableOfContents: true
 showDate: true
 showWordCount: false
 showReadingTime: true
