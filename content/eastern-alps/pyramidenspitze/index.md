@@ -2,7 +2,7 @@
 title: "Pyramidenspitze - Austria"
 date: 2024-12-04
 draft: false
-summary: "A steep ascent to the second highest peak of Zahmer Kaiser"
+description: "Experience the adventure of hiking Pyramidenspitze, the second-highest peak of Austria's Kaiser Mountains. This epic trail features a stunning panoramic summit, a manageable via ferrata section, and rugged, exposed terrain. Perfect for nature lovers and sunrise chasers, this point-to-point hike promises unforgettable views and a touch of thrill. Plan your journey for an early start to enjoy a safe and scenic ascent!"
 tags: ["eastern alps", "hiking"]
 
 showTableOfContents: true
