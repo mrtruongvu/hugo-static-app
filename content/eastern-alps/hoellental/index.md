@@ -5,7 +5,7 @@ description: "Explore a serene and challenging hike in Germany's Höllental Vall
 
 date: 2024-11-30
 draft: false
-summary: "A breathtaking 13 km hike from Garmisch-Partenkirchen"
+summary: "🚩 13.5 km point-to-point | ↗️ 1000 meters from Garmisch-Partenkirchen"
 tags: ["eastern alps", "hiking"]
 
 
@@ -116,7 +116,7 @@ You made it! 👏
 <br>
 
 
-{{< button href="https://www.komoot.com/tour/102593031?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL&ref=wtd" target="_self" >}}
+{{< button href="https://www.komoot.com/tour/102593031?share_token=at8LSIDDb1FtYUiWLeuNzrgaZkuBe7AanUGN35pHMRu9UkNfeL&ref=wtd" target="_blank" >}}
 Click here for Komoot!
 {{< /button >}}
 

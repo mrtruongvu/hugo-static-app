@@ -2,7 +2,7 @@
 title: "Schachenhaus & Rheintal - Germany"
 date: 2024-11-30
 draft: false
-summary: "22 km hike from Garmisch-Partenkirchen"
+summary: "🚩 22.6 km loop | ↗️ 1130 meters from Garmisch-Partenkirchen"
 tags: ["eastern alps", "hiking"]
 
 showTableOfContents: true
@@ -71,7 +71,7 @@ Suspendisse potenti. Pellentesque ut justo ut purus gravida finibus. Aenean posu
 <br>
 
 
-{{< button href="https://www.komoot.com/tour/80663928?share_token=a8oyObBLtf6tZY7mD5tiOwayoiL57Fz7BVwaIm75zDAskKTcuU&ref=wtd" target="_self" >}}
+{{< button href="https://www.komoot.com/tour/80663928?share_token=a8oyObBLtf6tZY7mD5tiOwayoiL57Fz7BVwaIm75zDAskKTcuU&ref=wtd" target="_blank" >}}
 Click here for Komoot!
 {{< /button >}}
 

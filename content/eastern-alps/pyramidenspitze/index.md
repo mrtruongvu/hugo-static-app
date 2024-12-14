@@ -3,6 +3,9 @@ title: "Pyramidenspitze - Austria"
 date: 2024-12-04
 draft: false
 description: "Experience the adventure of hiking Pyramidenspitze, the second-highest peak of Austria's Kaiser Mountains. This epic trail features a stunning panoramic summit, a manageable via ferrata section, and rugged, exposed terrain. Perfect for nature lovers and sunrise chasers, this point-to-point hike promises unforgettable views and a touch of thrill. Plan your journey for an early start to enjoy a safe and scenic ascent!"
+summary: "🚩 14.5 km point-to-point | ↗️ 1300 meters from Kufstein"
+
+
 tags: ["eastern alps", "hiking"]
 
 showTableOfContents: true
@@ -100,7 +103,7 @@ Turn right at the hut and take a small trail into the dense forest. Some sectio
 <br>
 
 
-{{< button href="https://www.komoot.com/tour/102268321?share_token=a9836ULplJVgsrIVGdzpRyiCfgMRLNBGb59T2RhfJ7hzT9VM2J&ref=wtd" target="_self" >}}
+{{< button href="https://www.komoot.com/tour/102268321?share_token=a9836ULplJVgsrIVGdzpRyiCfgMRLNBGb59T2RhfJ7hzT9VM2J&ref=wtd" target="_blank" >}}
 Click here for Komoot!
 {{< /button >}}
 
