@@ -25,7 +25,7 @@ heroStyle: background
 
 {{< /alert >}}
 
-## Concise and informative header 
+## A hike through the Kaiser Mountains
 
 This hike was another one that I did solo after a night out and my second solo hike starting from Kufstein. It’s quite a straightforward hike that takes you around the Wilder Kaiser directly from Kufstein station. This one’s a rather long trek, so make sure you bring enough food and water. There are no exposed sections and no via ferrata. The incline is quite mild, but there are steep parts on the way down to Söll. Make sure to start early to ensure you finish before sunset. The bus back to Kufstein departs relatively infrequently.
 

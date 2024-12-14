@@ -1,5 +1,5 @@
 ---
-description: "Turn your next trip into an adventure! Get the best hiking tips and plans that you can fit in every itinerary!"
+description: "Welcome to my little corner of the web! I'm Truong, sharing blog posts about the best hikes, tech that inspires me, and snippets of my life. Check out my hiking blog for tips and routes that’ll turn your next trip into an adventure!"
 ---
 
 👋
