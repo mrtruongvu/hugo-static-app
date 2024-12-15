@@ -54,7 +54,7 @@ This hike was another one that I did solo after a night out and my second solo h
 
 <br>
 
-### How to get there ..
+### How to get there 
 From Munich Central Railway Station, you can take a regional or intercity train to Kufstein. Be aware that you will be crossing the border into Austria, so ensure you have your documents with you.
 
 A journey from Munich Central Railway Station to Kufstein takes around 1 hour and 15 minutes.

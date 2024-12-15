@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiking on mrtruongvu</title>
+    <link>http://localhost:1313/tags/hiking/</link>
+    <description>Recent content in Hiking on mrtruongvu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>truong.vu@live.de (Truong Vu)</managingEditor>
+    <webMaster>truong.vu@live.de (Truong Vu)</webMaster>
+    <copyright>© 2024 Truong Vu</copyright>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pyramidenspitze - Austria</title>
+      <link>http://localhost:1313/eastern-alps/pyramidenspitze/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/eastern-alps/pyramidenspitze/</guid>
+      <description>🚩 14.5 km point-to-point | ↗️ 1300 meters from Kufstein</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/pyramidenspitze/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>El Pijaral Natural Reserve - Tenerife</title>
+      <link>http://localhost:1313/canary/elpijaral/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/canary/elpijaral/</guid>
+      <description>Information about Höllental</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/canary/elpijaral/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Höllental &amp; Hupfleitenjoch - Germany</title>
+      <link>http://localhost:1313/eastern-alps/hoellental/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/eastern-alps/hoellental/</guid>
+      <description>🚩 13.5 km point-to-point | ↗️ 1000 meters from Garmisch-Partenkirchen</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/hoellental/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Schachenhaus &amp; Rheintal - Germany</title>
+      <link>http://localhost:1313/eastern-alps/schachenhaus/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/eastern-alps/schachenhaus/</guid>
+      <description>🚩 22.6 km loop | ↗️ 1130 meters from Garmisch-Partenkirchen</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/schachenhaus/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Wilder Kaiser - Austria</title>
+      <link>http://localhost:1313/eastern-alps/wilderkaiser/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/eastern-alps/wilderkaiser/</guid>
+      <description>🚩 17.2 km point-to-point | ↗️ 1160 meters from Kufstein</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/wilderkaiser/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

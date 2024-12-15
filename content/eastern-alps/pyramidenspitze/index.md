@@ -1,8 +1,10 @@
 ---
 title: "Pyramidenspitze - Austria"
+description: "Experience the adventure of hiking Pyramidenspitze, the second-highest peak of Austria's Kaiser Mountains. This epic trail features a stunning panoramic summit, a manageable via ferrata section, and rugged, exposed terrain. Perfect for nature lovers and sunrise chasers, this point-to-point hike promises unforgettable views and a touch of thrill. Plan your journey for an early start to enjoy a safe and scenic ascent!"
+
+
 date: 2024-12-04
 draft: false
-description: "Experience the adventure of hiking Pyramidenspitze, the second-highest peak of Austria's Kaiser Mountains. This epic trail features a stunning panoramic summit, a manageable via ferrata section, and rugged, exposed terrain. Perfect for nature lovers and sunrise chasers, this point-to-point hike promises unforgettable views and a touch of thrill. Plan your journey for an early start to enjoy a safe and scenic ascent!"
 summary: "🚩 14.5 km point-to-point | ↗️ 1300 meters from Kufstein"
 
 
@@ -59,7 +61,7 @@ Make sure to leave early for this hike to avoid hiking in the dark. The last sec
 
 <br>
 
-### How to get there ..
+### How to get there
 From Munich Central Railway Station, you can take a regional or intercity train to Kufstein. Be aware that you will be crossing the border into Austria, so ensure you have your documents with you.
 
 From Kufstein station, you will need to take a bus to get to Walchsee-Durchholzen. Buses depart quite infrequently, so it’s essential to plan ahead of your arrival.

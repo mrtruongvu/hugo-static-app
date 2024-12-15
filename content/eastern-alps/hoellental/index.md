@@ -59,7 +59,7 @@ This hike is mostly a closed loop—mostly, because it doesn’t return you to t
 
 <br>
 
-### How to get there ..
+### How to get there
 From Munich Central Railway Station, you can take a regional train that will take you to Garmisch-Partenkirchen. Flixbus also operates routes between Munich and Garmisch-Partenkirchen, but departs from the central bus station in Munich, rather than the central railway station.
 
 From Garmisch-Partenkirchen, you have the option to take the bus or the Bavarian Zugspitze Railway (Bayerische Zugspitzbahn) to get to Hammersbach. Buses and trains depart quite infrequently, so it's important to plan ahead of your arrival.
