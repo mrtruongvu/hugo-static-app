@@ -4,7 +4,7 @@ description: "Explore the ultimate Bavarian hiking adventure! This 22 km loop fr
 
 date: 2024-11-30
 draft: false
-summary: "🚩 22.6 km loop | ↗️ 1130 meters from Garmisch-Partenkirchen"
+summary: "🚩 22.6 km loop | ↗️ 1130 m elevation from Garmisch-Partenkirchen"
 tags: ["eastern alps", "hiking"]
 
 showTableOfContents: true
@@ -102,7 +102,7 @@ Follow the trail down into the Reintal, stopping at one of the viewpoints—you 
 
 
 
-{{< leaflet-map-basic lat=47.419501745983695 lng=11.113116280878453 zoom=16 mlat=47.48253936912618 mlng=11.118052450887395 popup="Skistadion bus station" gpxf="/gpx/schachenhaus.gpx">}} 
+{{< leaflet-map-basic lat=47.419501745983695 lng=11.113116280878453 zoom=16 mlat=47.48253936912618 mlng=11.118052450887395 popup="Olympic Ski Stadium" gpxf="/gpx/schachenhaus.gpx">}} 
 
 <br>
 

@@ -5,7 +5,7 @@ description: "Explore a serene and challenging hike in Germany's Höllental Vall
 
 date: 2024-11-30
 draft: false
-summary: "🚩 13.5 km point-to-point | ↗️ 1000 meters from Garmisch-Partenkirchen"
+summary: "🚩 13.5 km point-to-point | ↗️ 1000 m elevation from Garmisch-Partenkirchen"
 tags: ["eastern alps", "hiking"]
 
 

@@ -17,8 +17,18 @@
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
       <guid>http://localhost:1313/eastern-alps/pyramidenspitze/</guid>
-      <description>🚩 14.5 km point-to-point | ↗️ 1300 meters from Kufstein</description>
+      <description>🚩 14.5 km point-to-point | ↗️ 1300 m elevation from Kufstein</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/pyramidenspitze/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Around Eibsee - Germany</title>
+      <link>http://localhost:1313/eastern-alps/eibsee/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>truong.vu@live.de (Truong Vu)</author>
+      <guid>http://localhost:1313/eastern-alps/eibsee/</guid>
+      <description>🚩 14.3 km loop | ↗️ 330 m elevation from Garmisch-Partenkirchen</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/eibsee/featured.jpg" />
     </item>
     
     <item>
@@ -27,7 +37,7 @@
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
       <guid>http://localhost:1313/eastern-alps/hoellental/</guid>
-      <description>🚩 13.5 km point-to-point | ↗️ 1000 meters from Garmisch-Partenkirchen</description>
+      <description>🚩 13.5 km point-to-point | ↗️ 1000 m elevation from Garmisch-Partenkirchen</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/hoellental/featured.jpg" />
     </item>
     
@@ -37,7 +47,7 @@
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
       <guid>http://localhost:1313/eastern-alps/schachenhaus/</guid>
-      <description>🚩 22.6 km loop | ↗️ 1130 meters from Garmisch-Partenkirchen</description>
+      <description>🚩 22.6 km loop | ↗️ 1130 m elevation from Garmisch-Partenkirchen</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/schachenhaus/featured.jpg" />
     </item>
     
@@ -47,7 +57,7 @@
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>truong.vu@live.de (Truong Vu)</author>
       <guid>http://localhost:1313/eastern-alps/wilderkaiser/</guid>
-      <description>🚩 17.2 km point-to-point | ↗️ 1160 meters from Kufstein</description>
+      <description>🚩 17.2 km point-to-point | ↗️ 1160 m elevation from Kufstein</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eastern-alps/wilderkaiser/featured.jpg" />
     </item>
     

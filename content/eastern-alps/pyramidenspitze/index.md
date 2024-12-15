@@ -5,7 +5,7 @@ description: "Experience the adventure of hiking Pyramidenspitze, the second-hig
 
 date: 2024-12-04
 draft: false
-summary: "🚩 14.5 km point-to-point | ↗️ 1300 meters from Kufstein"
+summary: "🚩 14.5 km point-to-point | ↗️ 1300 m elevation from Kufstein"
 
 
 tags: ["eastern alps", "hiking"]

@@ -4,7 +4,7 @@ description: "Explore the beauty of Austria’s Wilder Kaiser with this easy yet
 
 date: 2024-11-30
 draft: false
-summary: "🚩 17.2 km point-to-point | ↗️ 1160 meters from Kufstein"
+summary: "🚩 17.2 km point-to-point | ↗️ 1160 m elevation from Kufstein"
 tags: ["eastern alps", "hiking"]
 
 showTableOfContents: true
