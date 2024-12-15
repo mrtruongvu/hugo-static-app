@@ -24,7 +24,7 @@ heroStyle: background
 
 {{< /alert >}}
 
-## Majestic gorge, jaw-dropping views of the Reintal and grazing cows, this hike has it all!
+## A majestic gorge, jaw-dropping views of the Reintal, and grazing cows, this hike has it all!
 
 When I drove to Garmisch-Partenkirchen with a few university friends to hike up to the Schachenhaus, I didn’t really know what to expect on this 22 km hike. Following the recommendation of a friend, we anticipated a relaxing walk through the mountains with ample time to finish before sunset, which was around half-past nine at that time of year. Looking back, this was probably one of the most thrilling yet fun experiences I had during my time as a student in Munich.
 
