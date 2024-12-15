@@ -19,7 +19,7 @@ heroStyle: background
 ---
 
 {{< alert icon=none cardColor="#6c83ae" iconColor="#1d2635" textColor="#ffffff" >}}
- 📍 Starting point: Skistadion bus station, Garmisch-Partenkirchen  <br>
+ 📍 Starting point: Olympic Ski Stadium, Garmisch-Partenkirchen  <br>
  🏴 Destination: (starting point)
 
 {{< /alert >}}
