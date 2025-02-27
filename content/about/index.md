@@ -13,7 +13,7 @@ showTableOfContents: false
 ---
 <br> 
 
-You've travelled far to get here, but I'm glad you've made it to my little blog. Now that you're here, I'm sure you're curious about the person behind it.
+You've travelled far to get here, but I'm glad you've made it to my little blog. Now that you're here, I'm sure you're curious about the person behind it. 
 
 Let me tell you, I am certainly not a writer — well, until now. I'm exploring writing and creating blog posts as a new creative outlet alongside other pastimes, such as getting my hands bruised at the local climbing gym or fiddling with the latest technology. Yes, I am the kind of person who always has to buy the latest gadgets even after telling myself that the next generation isn't going to be much better and that I should stick to it for at least two years. But I guess that's just my curiosity and desire for new experiences shining through.
 
@@ -21,7 +21,7 @@ Above all, nothing is more important to me than human connection. All good thing
 
 Some of my friends would describe me as a goofball who's fun to be around. Others say I'm a good listener for relationship crises or existential life questions. But at the end of the day, I try not to take life too seriously. 
 
-Now scroll down for more about me!
+Now scroll down for more about me! 🔎
 
 
 
