@@ -21,7 +21,7 @@ Above all, nothing is more important to me than human connection. All good thing
 
 Some of my friends would describe me as a goofball who's fun to be around. Others say I'm a good listener for relationship crises or existential life questions. But at the end of the day, I try not to take life too seriously. 
 
-Now scroll down for more about me! 🔎
+Now scroll down for more about me! 🔎🔎🔎
 
 
 
